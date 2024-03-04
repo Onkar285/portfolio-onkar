@@ -1,0 +1,52 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #282926;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  section {
+    padding: 20px;
+    color: rgb(9, 9, 9);
+  }
+  
+  .project {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+ 
+
+p {
+    color: rgb(13, 13, 13);
+    
+  }
+  
+ 
+  h1.title, h2.title, h3.title {
+    color: blue;
+  }
+  
+ 
+  a {
+    color: green;
+  }
+  
+ 
+  .highlight {
+    color: orange;
+  }
+  /* styles.css */
+
+
+
+  
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

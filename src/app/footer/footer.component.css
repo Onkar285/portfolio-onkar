@@ -1,0 +1,8 @@
+div{
+    bottom: 0;
+    margin-top: 50px !important;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

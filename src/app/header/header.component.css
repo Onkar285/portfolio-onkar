@@ -1,0 +1,19 @@
+.navbar-nav{
+ font-size: 18px;
+}
+.navbar-nav a:hover{
+  border-bottom: 1px solid gray;
+  color: black;
+  transition: 500ms all;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+.navbar-nav {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.nav-item {
+  display: inline-block;
+}
